@@ -96,4 +96,4 @@ git remote add origin https://github.com/YOUR_NAME/dynamic-island-prototype.git
 git push -u origin main
 ```
 
-No project license has been selected yet. Choose one before inviting reuse or redistribution. Dependencies retain their own licenses; Ical.Net and NodaTime use their upstream licenses. See [Ical.Net](https://github.com/ical-org/ical.net) and [NodaTime](https://github.com/nodatime/nodatime) for their license texts.
+This project is licensed under the [MIT License](LICENSE). Dependencies retain their own licenses. See [Ical.Net](https://github.com/ical-org/ical.net) and [NodaTime](https://github.com/nodatime/nodatime) for their license texts.
